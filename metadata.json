@@ -1,0 +1,6 @@
+{
+  "name": "SI-BERKAS PMD - Kabupaten Sidoarjo",
+  "description": "Sistem Informasi Pemberkasan & Korespondensi Terpadu Dinas Pemberdayaan Masyarakat dan Desa Kabupaten Sidoarjo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
